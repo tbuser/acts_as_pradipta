@@ -1,0 +1,25 @@
+ActsAsPradipta
+==============
+
+Pradipta's Rolodex
+
+Example
+=======
+
+config/envrionments/development.rb
+
+ActionMailer::Base.send :include, ActsAsPradipta
+
+config.action_mailer.delivery_method = :pradipta
+
+config.action_mailer.my_settings = {
+  :delivery_method => :smtp
+}
+
+config.action_mailer.smtp_settings = {
+  :address => 'smtp.gmail.com',
+  :port => 25,
+  :domain => 'gmail.com'
+}
+
+Copyright (c) 2008 [Tony Buser], released under the MIT license
