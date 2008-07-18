@@ -1,7 +1,9 @@
 ActsAsPradipta
 ==============
 
-What Pradipta used to send his recruitment email.
+What Pradipta Archiputra (aka "MAX ARCHIE") uses to send his recruitment emails.  This plugin pretends that CC and BCC does not exist.  All recipients no matter how they're set, all go to the TO line where they belong.  Now you too can create epic threads of FAIL in the hopes that they will transubstantiate into WIN.
+
+Yes, it's a joke.  See http://groups.google.com/group/pradiptas-rolodex
 
 Example
 =======
@@ -27,4 +29,4 @@ Credit
 
 Mostly extracted from http://github.com/Nel/deliver_to_me/tree/master
 
-Copyright (c) 2008 [Tony Buser], released under the MIT license
+Copyright (c) 2008 Tony Buser, released under the MIT license
