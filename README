@@ -1,7 +1,7 @@
 ActsAsPradipta
 ==============
 
-Pradipta's Rolodex
+What Pradipta used to send his recruitment email.
 
 Example
 =======
@@ -21,5 +21,10 @@ config.action_mailer.smtp_settings = {
   :port => 25,
   :domain => 'gmail.com'
 }
+
+Credit
+======
+
+Mostly extracted from http://github.com/Nel/deliver_to_me/tree/master
 
 Copyright (c) 2008 [Tony Buser], released under the MIT license
